@@ -29,3 +29,12 @@ LEARNINGS - basic concepts of classes and objects working with date and time Con
 1-FEB-2025 - Added assignment questions on constructors.
 
 Learnings- Learned about various types of constructors and Access modifiers. Practiced questions on constructors and uploaded assignment questions.
+
+2-FEB-2025- Added assignment questions on acces modifiers, instance vs class variables methods.
+
+3-FEB-2025 - Added assignment questions on sealed/ static/ this keyword and is operator.
+
+Learnings - Learned about static classes/ sealed class and sealed methods/ is operator and this keyword.  
+
+4-FEB-2025 - Completed and uploaded assignment of sealed classes/ static/ this keyword/ is operator.
+
