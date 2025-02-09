@@ -44,4 +44,10 @@ Learnings - Learned about Object Modelling- Object Relationships and communicati
 
 6-FEB-2025- Added assignment on object, class and sequence diagram.
 
-Learnings_ Learned about Object/ class/ Sequence diagrams and practiced assignment question on that. 
+Learnings -  Learned about Object/ class/ Sequence diagrams and practiced assignment question on that.
+
+7-FEB-2025 - Added some single level inheritance solutions.
+
+Learnings - Learned about concept of inheritance and its relationships. Theory Topics covered - Single level inheritance, Multilevel Inheritance, Hierarchical Inheritance, Method overriding, Constructor Inheritance, Polimorphism and inheritance, Access Modifiers and inheritance.
+
+8-FEB-2025 - Completed Inheritance assignment and uploaded it.
