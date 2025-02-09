@@ -30,7 +30,7 @@ LEARNINGS - basic concepts of classes and objects working with date and time Con
 
 Learnings- Learned about various types of constructors and Access modifiers. Practiced questions on constructors and uploaded assignment questions.
 
-2-FEB-2025- Added assignment questions on acces modifiers, instance vs class variables methods.
+2-FEB-2025- Added assignment questions on access modifiers, instance vs class variables methods.
 
 3-FEB-2025 - Added assignment questions on sealed/ static/ this keyword and is operator.
 
@@ -38,3 +38,10 @@ Learnings - Learned about static classes/ sealed class and sealed methods/ is op
 
 4-FEB-2025 - Completed and uploaded assignment of sealed classes/ static/ this keyword/ is operator.
 
+5-FEB-2025 - Added assignment solutions of Object Modelling.
+
+Learnings - Learned about Object Modelling- Object Relationships and communication. Classroom Learning - IsA and HasA Relationships.
+
+6-FEB-2025- Added assignment on object, class and sequence diagram.
+
+Learnings_ Learned about Object/ class/ Sequence diagrams and practiced assignment question on that. 
