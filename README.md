@@ -26,4 +26,6 @@ working with date and time in c# working with array without build in methods con
 
 LEARNINGS - basic concepts of classes and objects working with date and time Constructors Buildin methods
 
+1-FEB-2025 - Added assignment questions on constructors.
 
+Learnings- Learned about various types of constructors and Access modifiers. Practiced questions on constructors and uploaded assignment questions.
