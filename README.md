@@ -51,3 +51,7 @@ Learnings -  Learned about Object/ class/ Sequence diagrams and practiced assign
 Learnings - Learned about concept of inheritance and its relationships. Theory Topics covered - Single level inheritance, Multilevel Inheritance, Hierarchical Inheritance, Method overriding, Constructor Inheritance, Polimorphism and inheritance, Access Modifiers and inheritance.
 
 8-FEB-2025 - Completed Inheritance assignment and uploaded it.
+
+10-2-2025 - Submitted assignment solution of Encapsulation.
+
+Learnings- Learned about the concept of Encapsulation, Abstraction, method hiding, abstract classes and abstract methods, Interface.
