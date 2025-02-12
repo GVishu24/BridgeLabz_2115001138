@@ -55,3 +55,9 @@ Learnings - Learned about concept of inheritance and its relationships. Theory T
 10-2-2025 - Submitted assignment solution of Encapsulation.
 
 Learnings- Learned about the concept of Encapsulation, Abstraction, method hiding, abstract classes and abstract methods, Interface.
+
+11-02-2025 - Learned about concept of singly linked list, doubly linked list and circular linked list. And performed basic operations on them.
+
+12-02-2025 - Uploaded LinkedList Assignment solitions.
+
+Learnings- Implemented opertaions of LinkedList and performed it in the assignment questions.
