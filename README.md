@@ -61,3 +61,9 @@ Learnings- Learned about the concept of Encapsulation, Abstraction, method hidin
 12-02-2025 - Uploaded LinkedList Assignment solitions.
 
 Learnings- Implemented opertaions of LinkedList and performed it in the assignment questions.
+
+13-02-2025 - Learned about implementation of stack, queue/ Hash Map & Hash Function and completed assignment.
+
+14-02-2025 - Learned about various sorting algorithm - Bubble sort, selection sort, insertion sort, counting sort, quick sort, merge sort and heap sort and completed assignment questions and uploaded it.
+
+16-02-2025 - Learned about concept of file handling and string builder and completed its assignment.
