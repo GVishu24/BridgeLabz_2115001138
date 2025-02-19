@@ -67,3 +67,9 @@ Learnings- Implemented opertaions of LinkedList and performed it in the assignme
 14-02-2025 - Learned about various sorting algorithm - Bubble sort, selection sort, insertion sort, counting sort, quick sort, merge sort and heap sort and completed assignment questions and uploaded it.
 
 16-02-2025 - Learned about concept of file handling and string builder and completed its assignment.
+
+17-02-2025 - Learned about Algorithm's Runtime Analysis ie. Time and space complexity optimization  and completed its assignment work.
+
+18-02-2025 - Learned about Generics and uploaded its assignment.
+
+19-02-2025- Learned about Collections Hierarchy, list interface, set interface, queue and deque interfaces, map interface and their comparison and implementations. Solved the assignment and worked upon different Real-world Use Cases.
