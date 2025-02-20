@@ -73,3 +73,6 @@ Learnings- Implemented opertaions of LinkedList and performed it in the assignme
 18-02-2025 - Learned about Generics and uploaded its assignment.
 
 19-02-2025- Learned about Collections Hierarchy, list interface, set interface, queue and deque interfaces, map interface and their comparison and implementations. Solved the assignment and worked upon different Real-world Use Cases.
+
+20-02-2025 - Completed and Submitted assignment on I/O streams.
+Learnings - Learned about C# I/O streams ie. File streams, Object streams, ByteArray Streams, Buffered Streams, Reader And Writer. Solved assignment questions and submitted them.
