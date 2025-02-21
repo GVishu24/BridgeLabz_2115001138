@@ -76,3 +76,7 @@ Learnings- Implemented opertaions of LinkedList and performed it in the assignme
 
 20-02-2025 - Completed and Submitted assignment on I/O streams.
 Learnings - Learned about C# I/O streams ie. File streams, Object streams, ByteArray Streams, Buffered Streams, Reader And Writer. Solved assignment questions and submitted them.
+
+21-02-2025 - Learned about Exceptions and exception handling using try- 
+catch blocks, try-catch-finally blocks, throws clause, throw statement.
+Submitted Exception Handling assignment !! 
